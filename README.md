@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softlabxsanjeev1&label=Profile%20views&color=0e75b6&style=flat" alt="softlabxsanjeev1" /> </p>
 
 - 📫 How to reach me **sanjeevyaadav28520@gmail.com**
-- my portfolio website https://sanjeevkumar2810.netlify.app/
+- my portfolio website https://sanjeev-portfolio-softlabxsanjeev1s-projects.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
